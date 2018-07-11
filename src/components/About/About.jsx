@@ -8,7 +8,7 @@ import "./About.scss";
 class About extends Component {
   render() {
     return (
-      <div className="about-container md-grid mobile-fix">
+      <div className="about-container md-grid mobile-fix">        
         <Card className="md-grid md-cell--8">
           <div className="about-wrapper">
             <img

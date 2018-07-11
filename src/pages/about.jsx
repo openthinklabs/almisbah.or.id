@@ -11,7 +11,7 @@ class AboutPage extends Component {
           <title>{`About | ${config.siteTitle}`}</title>
           <link rel="canonical" href={`${config.siteUrl}/about/`} />
         </Helmet>
-        <About />
+        <About />        
       </div>
     );
   }
